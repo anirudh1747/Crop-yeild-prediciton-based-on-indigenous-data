@@ -1,4 +1,6 @@
 *******************************************************************************
+Heroku deplyed link: https://yield-predictor-telangana.herokuapp.com/ 
+
 FILES:--
 
 Jupyter Notebook :
